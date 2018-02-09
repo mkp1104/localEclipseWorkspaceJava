@@ -1,4 +1,4 @@
-package com.mkp.basic;
+package com.mkp.basic.tree.findBinaryTreeMirror;
 
 
 //Java program to convert binary tree into its mirror
