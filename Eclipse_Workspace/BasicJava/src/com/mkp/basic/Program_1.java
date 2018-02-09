@@ -1,3 +1,4 @@
+
 package com.mkp.basic;
 
 public class Program_1 {
@@ -5,3 +6,4 @@ public class Program_1 {
 		System.out.println("fjfhg");
 	}
 }
+
