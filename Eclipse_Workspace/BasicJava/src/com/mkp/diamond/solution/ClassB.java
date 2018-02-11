@@ -1,4 +1,4 @@
-package com.mkp.diamond.problem;
+package com.mkp.diamond.solution;
 
 public class ClassB extends SuperClass {
 
