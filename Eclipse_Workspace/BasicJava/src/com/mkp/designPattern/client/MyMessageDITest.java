@@ -1,5 +1,9 @@
 package com.mkp.designPattern.client;
 
+import com.mkp.designPattern.DI.consumer.Consumer;
+import com.mkp.designPattern.DI.injector.EmailServiceInjector;
+import com.mkp.designPattern.DI.injector.MessageServiceInjector;
+import com.mkp.designPattern.DI.injector.SMSServiceInjector;
 
 public class MyMessageDITest {
 

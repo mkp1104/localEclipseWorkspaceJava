@@ -1,4 +1,4 @@
-package com.mkp.designPattern;
+package com.mkp.designPattern.model;
 
 
 public class Server extends Computer {

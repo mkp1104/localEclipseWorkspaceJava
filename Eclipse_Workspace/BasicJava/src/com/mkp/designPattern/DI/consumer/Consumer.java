@@ -1,5 +1,5 @@
 package com.mkp.designPattern.DI.consumer;
 
-public class Consumer {
-
+public interface Consumer {
+	void processMessages(String msg, String rec);
 }

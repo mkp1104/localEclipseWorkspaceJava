@@ -1,5 +1,5 @@
 package com.mkp.designPattern.DI.services;
 
-public class MessageService {
-
+public interface MessageService {
+	void sendMessage(String msg, String rec);
 }

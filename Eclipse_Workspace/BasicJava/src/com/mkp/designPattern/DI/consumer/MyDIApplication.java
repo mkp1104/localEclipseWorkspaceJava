@@ -1,5 +1,6 @@
 package com.mkp.designPattern.DI.consumer;
 
+import com.mkp.designPattern.DI.services.MessageService;
 
 public class MyDIApplication implements Consumer{
 

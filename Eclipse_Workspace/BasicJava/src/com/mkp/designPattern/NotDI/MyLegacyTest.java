@@ -1,4 +1,4 @@
-package com.mkp.designPattern.DI;
+package com.mkp.designPattern.NotDI;
 
 
 public class MyLegacyTest {

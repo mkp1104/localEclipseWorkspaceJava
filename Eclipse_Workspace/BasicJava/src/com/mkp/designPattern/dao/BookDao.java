@@ -1,5 +1,8 @@
 package com.mkp.designPattern.dao;
 
+import java.util.List;
+
+import com.mkp.designPattern.model.Books;
 
 public interface BookDao {
 

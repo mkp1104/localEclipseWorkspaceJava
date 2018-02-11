@@ -1,5 +1,8 @@
-package com.mkp.designPattern;
+package com.mkp.designPattern.factory;
 
+import com.mkp.designPattern.model.Computer;
+import com.mkp.designPattern.model.PC;
+import com.mkp.designPattern.model.Server;
 
 public class ComputerFactory {
 

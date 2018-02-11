@@ -1,5 +1,7 @@
 package com.mkp.designPattern.client;
 
+import com.mkp.designPattern.factory.ComputerFactory;
+import com.mkp.designPattern.model.Computer;
 
 public class TestFactory {
 
