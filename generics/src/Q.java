@@ -1,0 +1,6 @@
+
+
+class Q extends P
+{
+	
+}

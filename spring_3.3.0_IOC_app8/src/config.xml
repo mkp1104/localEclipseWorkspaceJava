@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: beans1.xml,v 1.3 2006/08/20 19:08:40 jhoeller Exp $ -->
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="t" class="com.lara.Test">
+<constructor-arg type="String" value="abc"/>
+<constructor-arg type="int" value="12"/>
+</bean>
+<bean id="t1" class="com.lara.Test">
+<constructor-arg type="String" value="xyz"/>
+<constructor-arg type="int" value="22"/>
+</bean>
+
+</beans>

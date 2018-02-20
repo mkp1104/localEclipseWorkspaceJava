@@ -1,0 +1,29 @@
+Design and implement chemical elements
+
+The periodic table of chemical elements classifies and displays all chemical elements. Each chemical element has a unique symbolic name and atomic number (number of protons). Chemcial elements are grouped together by common characteristics (alkali metal, poor metal, ...) called the chemical series.
+
+Examples of chemical elements:
+
+H (hydrogenium): Hydrogen with atomic number 1.
+O (oxygenium): Oxygen with atomic number 8.
+K: Potassium with atomic number 19. It is an alkali metal.
+Zn: Zinc (from german Zink) with atomic number 30. It is a transition metal.
+Ga: Gallium with atomic number 31. It is a metal.
+We consider the following chemical series:
+
+Alkali metals are all chemical element with atomic number 3, 11, 19, 37, 55, or 87
+Transition metals are all chemical elements with atomic number from 21 to 31, 39 to 48, 72 to 80, and 104 to 112.
+Metalsare all chemical elements with atomic number 13, 49, 50, 81, 82, 83, 113, 114, 115, or 116.
+Design and implement a class ChemicalElement. The class should contain methods to retrieve for a chemical element its name, symbolic name, atomic number, and which type of metal it is (three different methods for each metal property). Implement these three methods without if or else, but
+
+one method with a switch
+one method with a single boolean expression
+one method with a static boolean-array where the index is the atomic number. You can initialize the array in the static initializer of the class ( static { ... } ).
+Make sure that you choose for each of these three methods the best of the above implementations. How do these variants differ with respect to the maintainability and performance of the program?
+
+Add constants for the above five examples of chemical elements to the class.
+
+The values of a chemical element must be unmutable: once a chemical element is constructed, its must not be possible to change its internal state (like String objects).
+
+Let the class have fields for name,symbolicNAme and atomicNumber
+Methods : isAlkaliMetal,isTransitionMetal and isMetal

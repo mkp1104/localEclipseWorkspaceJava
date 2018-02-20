@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="unit2/Examples"/>
+	<classpathentry kind="src" path="unit4/Examples"/>
+	<classpathentry kind="src" path="unit6/Examples"/>
+	<classpathentry kind="src" path="unit8/Examples"/>
+	<classpathentry kind="src" path="unit9/Exercises"/>
+	<classpathentry kind="src" path="unit10/Examples"/>
+	<classpathentry kind="src" path="unit3/Examples"/>
+	<classpathentry kind="src" path="unit7/Examples"/>
+	<classpathentry kind="src" path="unit9/Examples"/>
+	<classpathentry kind="src" path="unit5/Example"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit2"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit4"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit6"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit8"/>
+	<classpathentry kind="src" path="unit11"/>
+	<classpathentry kind="src" path="program"/>
+	<classpathentry kind="src" path="unit1"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit3"/>
+	<classpathentry excluding="Example/" kind="src" path="unit5"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit7"/>
+	<classpathentry excluding="Exercises/|Examples/" kind="src" path="unit9"/>
+	<classpathentry excluding="Examples/" kind="src" path="unit10"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

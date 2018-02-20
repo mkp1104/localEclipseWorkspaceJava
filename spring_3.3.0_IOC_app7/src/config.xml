@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: beans1.xml,v 1.3 2006/08/20 19:08:40 jhoeller Exp $ -->
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="add1" class="com.lara.Address">
+<property name="House_no" value="1122/21"/>
+<property name="Street_name" value="BTM 32 main/2nd Cross"/>
+</bean>
+<bean id="e" class="com.lara.Employee">
+<constructor-arg index="0" value="Manish Prasad"/>
+<constructor-arg index="1" value="23"/>
+<constructor-arg index="2" value="54"/>
+<constructor-arg index="3" ref="add1"/>
+<constructor-arg index="4" >
+<set>
+	<value>984928497</value>
+	<value>976347347</value>
+	<value>987937474</value>	
+</set>
+</constructor-arg>
+<constructor-arg index="5" >
+<map>
+	<entry key="degree" value="B.tech"/>
+	<entry key="diploma" value="ITI"/>
+	</map>
+</constructor-arg>
+<constructor-arg index="6" >
+<list>
+	<value>ramesh@infosys.com</value>
+	<value>akamai@google.com</value>
+	
+</list>
+</constructor-arg>
+<constructor-arg index="7" >
+<props>
+<prop key="Mini Project">JAVA</prop>
+<prop key="Major Project">Hadoop</prop>
+</props>
+</constructor-arg>
+</bean>
+</beans>

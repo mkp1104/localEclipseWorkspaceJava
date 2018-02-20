@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638203</millis>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a INFO message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638250</millis>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>FINE</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a FINE message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638250</millis>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>FINER</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a FINER message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638250</millis>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>FINEST</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a FINEST message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638250</millis>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>WARNING</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a WARNING message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638265</millis>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>CONFIG</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a CONFIG message....</message>
+</record>
+<record>
+  <date>2007-06-15T11:37:18</date>
+  <millis>1181887638265</millis>
+  <sequence>6</sequence>
+  <logger>log</logger>
+  <level>SEVERE</level>
+  <class>ConfigurationDemo</class>
+  <method>logMessage</method>
+  <thread>10</thread>
+  <message>Logging a SEVERE message....</message>
+</record>
+</log>

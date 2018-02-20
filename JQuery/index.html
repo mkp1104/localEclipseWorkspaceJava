@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <script type="text/javascript" src="models.js"></script>
+        <script type="text/javascript" src="stores.js"></script>
+        <!--<script type="text/javascript" src="views.js"></script>-->
+        <script type="text/javascript" src="app.js"></script>
+        <script src="lib/jquery-1.11.0.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var app = new App();
+                app.loadUser(100);
+            });
+        </script>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+
+    <body>
+        <div id="header">
+            <p class="logo" href="#">FaceBook</p>
+            
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/profile">Profile</a></li>
+                <li><a href="/friends">Friends</a></li>
+            <ul>
+        </div>
+        <div id="main">
+            <div id="left-sidebar">
+                <p id="user-name">
+                </p>
+                <p id="user-details">
+                <p>               
+            </div>
+            <div id="content">
+                <form>
+                    <textarea></textarea>
+                    <input type="submit" />
+                </form>
+                <ul id="posts">
+                </ul>
+                <p>
+                    <a href="">Show older posts</a>
+                </p>
+            </div>
+            <div id="right-sidebar">
+                <ul id="active"
+                </ul>
+                <ul id="inactive">
+                </ul>
+            </div>
+        </div>
+        <div id="footer">
+            Time waster
+        </div>
+    </body>
+
+</html>

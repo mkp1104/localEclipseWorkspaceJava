@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.lara">
+<class name="Person" table="Person_new_again">
+<id name="id" column="Pid">
+<generator class="native"/>
+</id>
+<property name="firstname"/>
+<property name="lastname" column="LastName"/>
+<property name="age" column="Age"/>
+<component name="add" class="Address">
+<property name="city"/>
+<property name="streetname"/>
+<property name="state"/>
+<property name="pincode"/>
+<property name="country"/>
+</component>
+</class>
+</hibernate-mapping>

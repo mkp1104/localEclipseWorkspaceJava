@@ -1,0 +1,30 @@
+#header {
+    padding: 12px;
+    background: #ccc;
+    height: 52px;
+}
+
+#header p { float: left }
+
+#header ul {
+    float: right;
+}
+
+#header ul li {
+    float: left;
+    margin-right: 12px;
+    
+}
+
+#main { clear: both }
+
+#main #left-sidebar { float: left; margin-right: 32px; }
+#main #left-sidebar li { list-style-type: none }
+
+#main #content { margin-top: 20px; float: left }
+
+#main #right-sidebar { float: right; margin-left: 32px; }
+
+#footer { clear: both; text-align: center }
+
+.sections a { color: orange }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: beans1.xml,v 1.3 2006/08/20 19:08:40 jhoeller Exp $ -->
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+  <bean id="p1" class="com.lara.Person">
+    <property name="firstName"><value>abc</value></property>
+      <property name="lastName"><value>xyz</value></property>
+		<property name="age"><value>23</value></property>
+		<property name="marks">
+      <list>
+      <value>100</value>
+      <value>200</value>
+      <value>300</value>
+      </list>
+      </property>
+    </bean>
+ 
+</beans>
