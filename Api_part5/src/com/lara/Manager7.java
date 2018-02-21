@@ -28,6 +28,7 @@ class D implements Comparable
 		
 	}
 }
+//{(i=0)=abc5, (i=9)=abc3, (i=80)=abc6, (i=90)=abc4}
 public class Manager7
 {
 	public static void main(String[] args) 
