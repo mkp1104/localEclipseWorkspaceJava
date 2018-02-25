@@ -1,0 +1,12 @@
+Chiefly, learn to program effectively in the Java language.
+Understand the Java software architecture, and the design decisions which make Java software portable, efficient, secure and robust.
+Learn how to configure a simple Java development environment.
+Know the grammar, data types and flow control constructs of the Java language for simple procedural programming.
+Understand Java as a purely object-oriented language, and implement software as systems of classes.
+Implement and use inheritance and polymorphism, including interfaces and abstract classes.
+Design appropriate exception handling into Java methods, and use the logging API appropriately.
+Understand the structure of streams in Java, and learn how to use streams to manage file I/O.
+Learn how to use Java Serialization to internalize and externalize potentially complex graphs of objects.
+Learn to make effective use of Java's Collections and Generics.
+Appreciate Java's multi-threading abilities and handle thread synchronization issues
+Use JDBC to work with RDBMS products

@@ -1,0 +1,16 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.OracleDialect</property>
+        <property name="hibernate.connection.driver_class">sun.jdbc.odbc.JdbcOdbcDriver</property>
+        <property name="hibernate.connection.username">system</property>
+        <property name="hibernate.connection.password">system123</property>
+        <property name="hibernate.connection.url">jdbc:odbc:db-dsn</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.hbm2ddl.auto">create</property>
+        <mapping resource="com/Person.hbm.xml"/>
+       </session-factory>
+</hibernate-configuration>

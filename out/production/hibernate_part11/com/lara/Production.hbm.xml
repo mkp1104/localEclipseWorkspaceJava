@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.lara">
+<class name="Production" table="Production">
+<id name="id" column="id">
+<generator class="native">
+</generator>
+</id>
+<property name="ProductName"/>
+<property name="Price"/>
+<property name="SalesPrice" formula="2*Price"/>
+</class>
+</hibernate-mapping>

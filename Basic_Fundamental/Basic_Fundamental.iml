@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="n-a" />
+    <orderEntry type="module" module-name="app2" />
+    <orderEntry type="module" module-name="app3" />
+    <orderEntry type="module" module-name="m-d" />
+    <orderEntry type="module" module-name="assertion_part1" />
+    <orderEntry type="module" module-name="n-d" />
+    <orderEntry type="module" module-name="m-c" />
+    <orderEntry type="module" module-name="m-r" />
+    <orderEntry type="module" module-name="m-c1" />
+    <orderEntry type="module" module-name="n-a_pack1" />
+  </component>
+</module>

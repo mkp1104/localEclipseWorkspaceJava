@@ -1,0 +1,339 @@
+
+<!-- saved from url=(0043)http://www.javaprepare.com/notes/files.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>javaprepare - File handling in Java </title>
+
+<meta name="author" content="Naveen Gabrani">
+<meta name="keywords" content="java, certification, preparation, tutorial, Files, I/O">
+
+<!--This page provides the section File Handling as part of Java Tutorial for the site javaprepare.com -->
+
+<meta name="description" content="This page provides the section File Handling as part of Java Tutorial for the site javaprepare.com.">
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800080">
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+
+<tbody><tr>
+<td align="left" valign="top" width="180" bgcolor="#DEDEDE">
+
+
+<br><br><table bgcolor="#DEDEDE" border="0" cellspacing="0" cellpadding="0">
+  
+<tbody><tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/index.html"> <img src="./javaprepare - File handling in Java_files/home.gif" border="0"> </a></font><br>
+
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/faq.html">FAQ</a></font><br>
+
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/intro.html">Java Tutorial</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/quests/question.html">Questions by Topic</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/quests/test.html">Mock Exam 1</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/quests/test2.html">Mock Exam 2</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.whizlabs.com/">Exam Simulator</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.oreillyschool.com/?77608">Online Java Training</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/links.html">Other Certification sites</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/tips.html">Certification Tips</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/obj.html">Exam Objectives</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/about.html">About JavaPrepare</a></font><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="left" bgcolor="#D90E00" valign="top" width="120"><font face="MS SANS SERIF" color="#ffffff" size="-2">   Books
+</font><br>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/books/books.html">Certification Books</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/books/arcbooks.html">SCEA Books</a></font><br>
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/books/onlinebooks.html">Online Books</a></font><br>
+</td></tr>
+
+<tr>
+
+<td align="left" bgcolor="#D90E00" valign="top" width="180"><font face="MS SANS SERIF" color="#ffffff" size="-2">   Tutorial Topics
+</font><br>
+</td>
+</tr>
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/funda.html">Language Fundamentals</a></font><br>
+</td>
+</tr>
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/operator.html">Operator and Assignments</a></font><br>
+</td>
+</tr>
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/declare.html">Declaration and Access Control</a></font><br>
+</td>
+</tr>
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/classes.html">Classes in Java</a></font><br>
+</td>
+</tr>
+
+
+<!--
+<tr>
+<td  bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="awt.html">AWT</a></font><br>
+</td>
+</tr>
+
+
+<tr>
+<td  bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="events.html">Event classes</a></font><br>
+</td>
+</tr>
+-->
+
+
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/threads.html">Threads</a></font><br>
+</td>
+</tr>
+
+<!--
+<tr>
+<td  bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="lay_mgr.html">Layout Managers</a></font><br>
+</td>
+</tr>
+-->
+
+
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="http://www.javaprepare.com/notes/collectn.html">Collections</a></font><br>
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#DEDEDE" align="left" valign="top" width="180">
+  <font face="arial" size="-1"><a href="./javaprepare - File handling in Java_files/javaprepare - File handling in Java.htm">Files</a></font><br>
+</td>
+</tr>
+
+
+<tr>
+<td align="left" bgcolor="#D90E00" valign="top" width="180"><font face="MS SANS SERIF" color="#ffffff" size="-2">   Advertisements
+</font><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9695071029069166";
+/* 120x90, created 1/7/10 */
+google_ad_slot = "1030030533";
+google_ad_width = 120;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="./javaprepare - File handling in Java_files/show_ads.js">
+</script><ins style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:120px;background-color:transparent"><ins id="aswift_0_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:120px;background-color:transparent"><iframe width="120" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;"></iframe></ins></ins>
+
+</center>
+</td>
+</tr>
+   
+
+
+
+
+
+ <tr><td>
+<br>
+</td></tr>
+
+
+</tbody></table>
+</td>
+
+<td width="10">&nbsp;</td>
+<td align="left" valign="top">
+
+
+<table width="100%"> 
+
+<tbody><tr> <td bgcolor="#FFCCCC"> <font color="#000066" size="6"> </font><center><font color="#000066" size="6">javaprepare.com </font><center><font color="#000066" size="6"></font>  
+
+<font color="#000066" size="3"></font><center><font color="#000066" size="3">your tool for Java Certification</font><center><font color="#000066" size="3"></font>  </center></center></center></center></td>
+
+</tr>
+</tbody></table>
+ 
+
+<center>
+<a href="http://www.javaprepare.com/index.html">home</a> | <a href="http://www.javaprepare.com/notes/intro.html">tutorial</a> | <a href="http://www.javaprepare.com/quests/question.html">questions</a> | <a href="http://www.javaprepare.com/quests/test.html">test 1</a>
+</center>
+
+ 
+<h3><center>File Handling and Input/Output</center></h3>
+
+<p>
+
+<!-- Issues are presented as a set of definitions -->
+
+</p><dl>
+
+<!-- the first item -->
+  <dt>java.io package</dt>
+
+  <dd>Classes related to input and output are present in the Java<sup>TM</sup> language package java.io . Java technology uses "streams" as a general mechanism of handling data. Input streams act as a source of data. Output streams act as a destination of data.
+ 
+</dd>
+
+<p>
+
+<!-- the second item -->
+
+  </p><dt>File class</dt>
+
+  <dd>The file class is used to store the path and name of a directory or file. The file object can be used to create, rename, or delete the file or directory it represents. The File class has the following constructors - <br>
+
+<code>
+<font color="red">
+File(String pathname); // pathname could be file or a directory name <br>
+File(String dirPathname, String filename); <br>
+File(File directory, String filename); </font></code><p><code><font color="red">
+</font>
+</code>
+
+The File class provides the getName() method which returns the name of the file excluding the directory name.<br>
+<code>
+<font color="red">
+String getName();<br>
+</font>
+</code>
+<br>
+</p></dd>
+<dt>Byte Streams</dt>
+<dd>The package java.io provides two set of class hierarchies - one for handling reading and writing of bytes, and another for handling reading and writing of characters. The abstract classes InputStream and OutputStream are the root of inheritance hierarchies handling reading and writing of bytes respectively. <br> <br>
+
+<b>Figure : InputStream class hierarchy (partial)</b> <br>
+<img src="./javaprepare - File handling in Java_files/inputstream.gif">
+<b>Figure : OutputStream class hierarchy (partial)</b>  <br>
+
+<img src="./javaprepare - File handling in Java_files/outstream.gif">
+
+</dd>
+
+<br> <br>
+<dt>read and write methods</dt>
+<dd>InputStream class defines the following methods for reading bytes - <br>
+<code>
+<font color="red">
+int read() throws IOException<br>
+int read(byte b[]) throws IOException<br>
+int read(byte b[], int offset, int length) throws IOException<br>
+</font> 
+</code>
+Subclasses of InputStream implement the above mentioned methods.<p>
+
+OutputStream class defines the following methods for writing bytes - <br>
+<code>
+<font color="red">
+void write(int b) throws IOException<br>
+void write(byte b[]) throws IOException<br>
+void write(byte b[], int offset, int length) throws IOException<br>
+</font>
+</code>
+Subclasses of OutputStream implement the above mentioned methods.
+</p><p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9695071029069166";
+/* Javaprepare rectangle */
+google_ad_slot = "8492910320";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="./javaprepare - File handling in Java_files/show_ads.js">
+</script><ins style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent"><iframe width="336" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;"></iframe></ins></ins>
+
+</p><p>
+
+The example below illustrates code to read a character. <br>
+<code>
+<font color="red">
+//First create an object of type FileInputStream type using the name of the file.<br>
+FileInputStream inp = new FileInputStream("filename.ext");<br>
+//Create an object of type DataInputStream using inp.<br>
+DataInputStream dataInp = new DataInputStream(inp);<br>
+int i = dataInp.readInt();<br>
+</font>
+</code>
+</p></dd>
+
+<br>
+<dt>Reader and Writer classes</dt>
+<dd>Similar to the InputStream and OutputStream class hierarchies for reading and writing bytes, Java technology provides class hierarchies rooted at Reader and Writer classes for reading and writing characters.<p>
+
+A character encoding is a scheme for internal representation of characters. Java programs use 16 bit Unicode character encoding to represent characters internally. Other platforms may use a different character set (for example ASCII) to represent characters. The reader classes support conversions of Unicode characters to internal character shortage. Every platform has a default character encoding. Besides using default encoding, Reader and Writer classes can also specify which encoding scheme to use.<br>
+
+The Reader class hierarchy is illustrated below.<br>
+
+<img src="./javaprepare - File handling in Java_files/reader.gif">
+
+The Writer class hierarchy is illustrated below.<br>
+<img src="./javaprepare - File handling in Java_files/writer.gif"> 
+
+<br>
+The table below gives a brief overview of key Reader classes.<br>
+
+<table align="center" bgcolor="#F5F5DC" border="1" cellspacing="0" cellpadding="0">
+  <tbody><tr><td>CharArrayReader</td><td>The class supports reading of characters from a character array.</td></tr>
+  <tr><td>InputStreamReader</td><td>The class supports reading of characters from a byte input stream. A character encoding may also be specified.</td></tr>
+  <tr><td>FileReader</td><td>The class supports reading of characters from a file using default character encoding.</td></tr>
+</tbody></table>
+ </p></dd>
+
+<br>  
+The table below gives a brief overview of key Writer classes.<br>
+<table align="center" bgcolor="#F5F5DC" border="1" cellspacing="0" cellpadding="0">
+  <tbody><tr><td>CharArrayWriter</td><td>The class supports writing of characters from a character array.</td></tr>
+  <tr><td>OutputStreamReader</td><td>The class supports writing of characters from a byte output stream. A character encoding may also be specified.</td></tr>
+  <tr><td>FileWriter</td><td>The class supports writing of characters from a file using default character encoding.</td></tr>
+</tbody></table>
+<br>
+The example below illustrates reading of characters using the FileReader class.<br>
+
+<code>
+<font color="red">
+//Create a FileReader class from the file name.<br>
+FileReader fr = new FileReader("filename.txt");<br>
+int i = fr.read(); //Read a character<br>
+</font>
+</code>
+
+</dl> 
+<p>
+</p><center>
+<a href="http://www.javaprepare.com/index.html">home</a> | <a href="http://www.javaprepare.com/notes/intro.html">tutorial</a> | <a href="http://www.javaprepare.com/quests/question.html">questions</a> | <a href="http://www.javaprepare.com/quests/test.html">test 1</a>
+</center>
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+</body></html>
