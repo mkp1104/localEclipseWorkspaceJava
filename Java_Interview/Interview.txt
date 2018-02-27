@@ -1,5 +1,10 @@
 # comprable and comprator.
-# HasMap.
+# HashMap.
 # object class methods with signature.
 # overloading and overriding experimental.
 # data structure -> linkedList Reverse.
+# confusion on equals,==,hashcode,society general ,centurylink,
+# @walmartlab immutablity program,@walmartlab online system test questions july30 problem .
+# riverse of linkedlist without extra space.
+# HackerRank problem practice.
+# 

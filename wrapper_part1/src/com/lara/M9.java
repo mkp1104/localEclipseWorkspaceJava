@@ -6,8 +6,9 @@ public class M9
 		String s1="ab";
 		String s2="x";
 //		Character c1=new Character(s1);
-		Character c3=new Character(s2);
-	//	Character c2=c1.charValue();
+		Character c3;
+		c3 = new Character(s2);
+		//	Character c2=c1.charValue();
 		Character c4=c3.charValue();
 		System.out.println("done");
 	}
