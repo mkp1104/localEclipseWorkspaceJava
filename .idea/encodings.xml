@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/ImmutableStudent.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/TryModifyImmutableStudent.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="ISO-8859-1" />
+  </component>
+</project>

@@ -72,9 +72,17 @@ public class TryModifyImmutableStudent extends ImmutableStudent{
 		
 		
 //		System.out.println(tmis.getRegNo());
-		
-		
-		
+
+		Student studentA = new Student();
+		studentA.setStudenId(123);
+		studentA.setAge(15);
+		studentA.setStudentName("mkp");
+		ImmutableStudent imstudent = new ImmutableStudent("std1",876,studentA);
+		System.out.println(imstudent.getName()+" :imstudent.getName(),"+imstudent.getName()+" :imstudent.getName(),"+imstudent.getStudent().getStudenId()+" :imstudent.getStudent().getStudenId(),"+imstudent.getStudent().getStudentName()+" :imstudent.getStudent().getStudentName(),"+imstudent.getStudent().getAge()+" :imstudent.getStudent().getAge()");
+		studentA.setStudenId(1234);
+		studentA.setAge(156);
+		studentA.setStudentName("Manish Kr Prasad ");
+		System.out.println(imstudent.getName()+" :imstudent.getName(),"+imstudent.getName()+" :imstudent.getName(),"+imstudent.getStudent().getStudenId()+" :imstudent.getStudent().getStudenId(),"+imstudent.getStudent().getStudentName()+" :imstudent.getStudent().getStudentName(),"+imstudent.getStudent().getAge()+" :imstudent.getStudent().getAge()");
 	}
 
 }
