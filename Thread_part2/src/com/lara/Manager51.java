@@ -1,10 +1,10 @@
 package com.lara;
 class E implements Runnable
 {
-/*	public  void run()
+	public  void run()
 	{
-	 
-	}*/
+
+	}
 }
 public class Manager51
 {

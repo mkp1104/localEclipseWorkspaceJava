@@ -6,20 +6,24 @@ public class TryModifyImmutableStudent extends ImmutableStudent{
 //	private static int regNo;
 	private  String nameNew;
 	private  int regNoNew;
+
+	public TryModifyImmutableStudent(String name, int regNo, Student student) {
+		super(name, regNo, student);
+	}
 //	public TryModifyImmutableStudent(){
 ////		super(this.name, regNo);
 ////		super(name, regNo);
 //	}
 	
-	public TryModifyImmutableStudent(String name, int regNo) {
+	/*public TryModifyImmutableStudent(String name, int regNo) {
 		
 //		this();
 		
-		super(name,regNo);
+//		super(name,regNo);
 		nameNew = name;
 		regNoNew = regNo;
 		// TODO Auto-generated constructor stub
-	}
+	}*/
 //	public void setName(String name){
 ////		super(name, regNo);
 //		this.name = name;
@@ -41,26 +45,26 @@ public class TryModifyImmutableStudent extends ImmutableStudent{
 	
 	public static void main(String[] args) {
 		
-		TryModifyImmutableStudent tmis = new TryModifyImmutableStudent("mkp", 101);
+//		TryModifyImmutableStudent tmis = new TryModifyImmutableStudent("mkp", 101);
 //		Short
-		ImmutableStudent  is = (ImmutableStudent)tmis;
+//		ImmutableStudent  is = (ImmutableStudent)tmis;
 //		ImmutableStudent  is = new TryModifyImmutableStudent("mkp", 101);
 		
-		ImmutableStudent  isN = new ImmutableStudent("immutable",001);
-		System.out.println(is.getName());
-		System.out.println(is.getRegNo());
+//		ImmutableStudent  isN = new ImmutableStudent("immutable",001);
+//		System.out.println(is.getName());
+//		System.out.println(is.getRegNo());
 //		System.out.println(isN.getName());
 //		System.out.println(isN.getRegNo());
 //		isN.name = "mutable";
 //		isN.regNo = 008;
-		tmis.setName("djtt");
-		tmis.setRegNo(57588);
+//		tmis.setName("djtt");
+//		tmis.setRegNo(57588);
 //		isN.setName("djtt");
 //		isN.setRegNo(57588);
 //		is.setName("djtt");
 //		is.setRegNo(57588);
-		System.out.println(is.getName());
-		System.out.println(is.getRegNo());
+//		System.out.println(is.getName());
+//		System.out.println(is.getRegNo());
 //		this.tmis = tmis;
 		
 //		tmis.name = "jc";

@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/IndiaBix/IndiaBix.iml" filepath="$PROJECT_DIR$/IndiaBix/IndiaBix.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA-Discussion/JAVA-Discussion.iml" filepath="$PROJECT_DIR$/JAVA-Discussion/JAVA-Discussion.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_Experiment/JAVA_Experiment.iml" filepath="$PROJECT_DIR$/JAVA_Experiment/JAVA_Experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaRabbitMQ_Client/JavaRabbitMQ_Client.iml" filepath="$PROJECT_DIR$/JavaRabbitMQ_Client/JavaRabbitMQ_Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_mail/Java_mail.iml" filepath="$PROJECT_DIR$/Java_mail/Java_mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/Misys_Oct/Misys_Oct.iml" filepath="$PROJECT_DIR$/Misys_Oct/Misys_Oct.iml" />
       <module fileurl="file://$PROJECT_DIR$/Misys_Training_Java/Misys_Training_Java.iml" filepath="$PROJECT_DIR$/Misys_Training_Java/Misys_Training_Java.iml" />
@@ -128,6 +129,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_3.3.0_IOC_app8/spring_3.3.0_IOC_app8.iml" filepath="$PROJECT_DIR$/spring_3.3.0_IOC_app8/spring_3.3.0_IOC_app8.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_3.3.0_IOC_app9/spring_3.3.0_IOC_app9.iml" filepath="$PROJECT_DIR$/spring_3.3.0_IOC_app9/spring_3.3.0_IOC_app9.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_IOC_3.3.0_app17/spring_IOC_3.3.0_app17.iml" filepath="$PROJECT_DIR$/spring_IOC_3.3.0_app17/spring_IOC_3.3.0_app17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src.iml" filepath="$PROJECT_DIR$/JavaRabbitMQ_Client/src.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_catch_0/try_catch_0.iml" filepath="$PROJECT_DIR$/try_catch_0/try_catch_0.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_catch_1/try_catch_1.iml" filepath="$PROJECT_DIR$/try_catch_1/try_catch_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_catch_2/try_catch_2.iml" filepath="$PROJECT_DIR$/try_catch_2/try_catch_2.iml" />
