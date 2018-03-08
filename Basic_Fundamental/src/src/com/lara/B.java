@@ -1,5 +1,5 @@
 
-package com.lara;
+package lara;
 class B
 {
 	public static void main(String[] args) 

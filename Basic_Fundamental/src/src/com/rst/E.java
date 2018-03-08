@@ -1,5 +1,5 @@
 
-package com.rst;
+package rst;
 class E
 {
 	public static void main(String[] args) 
