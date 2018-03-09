@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe895aa-06e2-4e9d-b074-ee921aaa8639" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/m-c1.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/com/A.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/com/D.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/com/lara/B.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/com/rst/C.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/com/rst/E.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/A.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/B.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/C.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/C1.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/D.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/E.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/F.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/G.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/H.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/I.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/J.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/lara/N.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/m-c.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/A.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/B.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/E.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/F.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/G.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/I.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/K.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/M.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/N.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/P.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/T.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack1/U.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/pack2/B.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/B.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/C.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/K.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/L.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/M.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/O.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/P.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/Q.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/S.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/T.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/U.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Basic_Fundamental/src/m-c/src/rst/V.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JavaRabbitMQ_Client/JavaRabbitMQ_Client.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JavaRabbitMQ_Client/src/abc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JavaRabbitMQ_Client/src/fdt" afterPath="" />
-    </list>
+    <list default="true" id="efe895aa-06e2-4e9d-b074-ee921aaa8639" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,11 +20,131 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RMQPublisher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example1/RMQPublisher.java">
+      <file leaf-file-name="example12.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="80">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example17/ConnectionLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitMQHealthCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example18/RabbitMQHealthCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="100" column="1" lean-forward="false" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitMQHealthCheckTestIntegration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example19/RabbitMQHealthCheckTestIntegration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="98" column="1" lean-forward="false" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitMqConnectionFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example20/RabbitMqConnectionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12/NewTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GabrielData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example13/GabrielData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6180">
+              <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1498#1543#0" expanded="true" />
+                <element signature="e#1921#1951#0" expanded="true" />
+                <element signature="e#7094#7095#0" expanded="true" />
+                <element signature="e#7130#7131#0" expanded="true" />
+                <element signature="e#10384#10385#0" expanded="true" />
+                <element signature="e#10437#10438#0" expanded="true" />
+                <element signature="e#10570#10571#0" expanded="true" />
+                <element signature="e#10630#10631#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example14/RequestHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12421#12422#0" expanded="true" />
+                <element signature="e#12472#12473#0" expanded="true" />
+                <element signature="e#12514#12515#0" expanded="true" />
+                <element signature="e#12568#12569#0" expanded="true" />
+                <element signature="e#12608#12609#0" expanded="true" />
+                <element signature="e#12660#12661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitMqConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example15/RabbitMqConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="68" column="1" lean-forward="false" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example16/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,18 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JAVA_Experiment/src/test.java" />
-        <option value="$PROJECT_DIR$/JAVA_Experiment/src/com/mkp/experiment/exp2/test.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/MovePositionByn.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/OrderByValue.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/Manager7.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/D.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/Manager26.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/Manager6.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/Manager8.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/Manager4.java" />
-        <option value="$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/com/mkp/interview/d/Manager4.java" />
-        <option value="$PROJECT_DIR$/wrapper_part1/src/com/lara/M9.java" />
         <option value="$PROJECT_DIR$/Important/src/com/mkp/immutable/MorganStanley.java" />
         <option value="$PROJECT_DIR$/Important/src/com/mkp/immutable/StatisticsAggregatorImpl.java" />
         <option value="$PROJECT_DIR$/Important/src/com/mkp/immutable/Student.java" />
@@ -148,6 +204,27 @@
         <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/RMQPublisher.java" />
         <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/JavaRabbitMQ_Client.iml" />
         <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/RMQPublisher.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example2/RMQPublisher.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example3/Publisher.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example4/Emitter.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example5/RoutingSendDirect.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example6/RoutingSendDirect.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example7/EmitLog.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example8/RabbitMQClient.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example9/RabbitMQTest.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example10/EmitLog.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example10/EmitLogDirect.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example11/EmitLogDirect.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12/NewTask.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example13/GabrielData.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example14/RequestHandler.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example15/RabbitMqConsumer.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example16/Consumer.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example17/ConnectionLoader.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example18/RabbitMQHealthCheck.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example19/RabbitMQHealthCheckTestIntegration.java" />
+        <option value="$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example20/RabbitMqConnectionFactory.java" />
       </list>
     </option>
   </component>
@@ -561,19 +638,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="784" height="1260" extended-state="6" />
+    <frame x="-8" y="-8" width="784" height="1219" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32712767" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289007" sideWeight="0.5052083" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24822696" sideWeight="0.49479166" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2575897" sideWeight="0.49479166" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6132597" sideWeight="0.49472296" order="3" side_tool="false" content_ui="combo" x="44" y="61" width="186" height="1128" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5483425" sideWeight="0.49472296" order="3" side_tool="false" content_ui="combo" x="44" y="61" width="186" height="1128" />
       <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -766,155 +843,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thread_part1/src/com/lara/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part1/src/com/lara/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/ImmutableStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/TryModifyImmutableStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Important/src/com/mkp/immutable/ImmutableStudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/OrderByValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/TreeSetDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/TreeMapCompMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Api_part5/src/com/lara/Manager4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Api_part5/src/com/lara/Manager5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Api_part5/src/com/lara/Manager6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/d/Manager6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/d/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Interview/src/com/mkp/ola/com/mkp/interview/d/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/jdk/internal/org/objectweb/asm/Opcodes.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part2/src/com/lara/Manager1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part2/src/com/lara/Manager10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part2/src/com/lara/Manager2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part2/src/com/lara/Manager51.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread_part3/src/com/lara/pack1/Manager1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thread_part3/src/com/lara/pack10/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -1141,6 +1069,240 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example2/RMQPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example3/Publisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example4/Emitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="59" column="1" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example5/RoutingSendDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example6/RoutingSendDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example7/EmitLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="58" column="1" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example8/RabbitMQClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="233" column="1" lean-forward="false" selection-start-line="233" selection-start-column="1" selection-end-line="233" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6004#6005#0" expanded="true" />
+            <element signature="e#6056#6057#0" expanded="true" />
+            <element signature="e#6091#6092#0" expanded="true" />
+            <element signature="e#6127#6128#0" expanded="true" />
+            <element signature="e#6162#6163#0" expanded="true" />
+            <element signature="e#6198#6199#0" expanded="true" />
+            <element signature="e#6226#6227#0" expanded="true" />
+            <element signature="e#6258#6259#0" expanded="true" />
+            <element signature="e#6289#6290#0" expanded="true" />
+            <element signature="e#6321#6322#0" expanded="true" />
+            <element signature="e#6357#6358#0" expanded="true" />
+            <element signature="e#6425#6426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example9/RabbitMQTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example10/EmitLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example10/EmitLogDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="59" column="1" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example11/EmitLogDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="58" column="1" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12/NewTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example13/GabrielData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6180">
+          <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1498#1543#0" expanded="true" />
+            <element signature="e#1921#1951#0" expanded="true" />
+            <element signature="e#7094#7095#0" expanded="true" />
+            <element signature="e#7130#7131#0" expanded="true" />
+            <element signature="e#10384#10385#0" expanded="true" />
+            <element signature="e#10437#10438#0" expanded="true" />
+            <element signature="e#10570#10571#0" expanded="true" />
+            <element signature="e#10630#10631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example14/RequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12421#12422#0" expanded="true" />
+            <element signature="e#12472#12473#0" expanded="true" />
+            <element signature="e#12514#12515#0" expanded="true" />
+            <element signature="e#12568#12569#0" expanded="true" />
+            <element signature="e#12608#12609#0" expanded="true" />
+            <element signature="e#12660#12661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example15/RabbitMqConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="68" column="1" lean-forward="false" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example16/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example17/ConnectionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example18/RabbitMQHealthCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="100" column="1" lean-forward="false" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example19/RabbitMQHealthCheckTestIntegration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="98" column="1" lean-forward="false" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRabbitMQ_Client/src/com/mkp/rabbitmq/client/example20/RabbitMqConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
